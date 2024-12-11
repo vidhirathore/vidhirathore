@@ -5,7 +5,7 @@
 - 📫 How to reach me: rvidhi315@gmail.com 
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact:  
-  "I thought we were headed to utopia...  
-  'What makes you think this isn’t it?'  
-  'Isn’t utopia supposed to be perfect? This is just GitHub.'  
-  'Yeah, well, this looks pretty close to perfect to me.'"
+    'I thought we were going to utopia?'
+    'What makes you say this isn't utopia?'
+    'I mean, I don't know, isn't it supposed to be some perfect destination? This is just your github'
+    'Yeah, it looks perfect to me'
